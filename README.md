@@ -1,2 +1,2 @@
 # exerciceMicroService
-Activité final pour valider la formation sur la construction des microServices
+Activité finale pour valider la formation sur la construction des microServices
